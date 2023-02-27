@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Itim&family=Lobster&display=swap');
+
+body{
+    justify-content: center;
+    background-color: #393E46;
+}
+
+h1{
+    font-size: 7rem;
+    color: #4ECCA3;
+    font-family: 'Lobster', cursive;
+    /* margin-left: 500px; */
+    text-align: center;
+}
+
+/* players name */
+
+.pname{
+    font-family: 'Indie Flower', cursive;
+}
+
+.pname h2{
+    font-size: 3rem;
+    width: 100%;
+    margin-top: 12px;
+    display: block;
+    justify-content: center;
+    text-align: center;
+}
+
+span{
+    margin-right: 150px;
+}
+
+/* images */
+
+.image{
+    margin-left: 500px;
+    justify-self: center;
+}
+.img2{
+    margin-left: 65px;
+}
+footer{
+    text-align: center;
+    margin-top: 44px;
+    font-family: 'Lobster';
+}
